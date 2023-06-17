@@ -13,3 +13,18 @@
 11:34:18.787 [main] INFO  api.test.UserTests2 - *********************getting user by name****************************
 11:34:20.390 [main] INFO  api.test.UserTests2 - *********************updating user****************************
 11:34:21.889 [main] INFO  api.test.UserTests2 - *********************deleting user****************************
+18:44:35.498 [main] INFO  api.test.UserTests2 - *********************creating user****************************
+18:44:42.878 [main] INFO  api.test.UserTests2 - *********************created user****************************
+18:44:42.904 [main] INFO  api.test.UserTests2 - *********************getting user by name****************************
+18:44:44.299 [main] INFO  api.test.UserTests2 - *********************updating user****************************
+18:44:45.509 [main] INFO  api.test.UserTests2 - *********************deleting user****************************
+19:24:37.577 [main] INFO  api.test.UserTests2 - *********************creating user****************************
+19:24:42.204 [main] INFO  api.test.UserTests2 - *********************created user****************************
+19:24:42.226 [main] INFO  api.test.UserTests2 - *********************getting user by name****************************
+19:24:43.502 [main] INFO  api.test.UserTests2 - *********************updating user****************************
+19:24:44.743 [main] INFO  api.test.UserTests2 - *********************deleting user****************************
+19:34:32.342 [main] INFO  api.test.UserTests2 - *********************creating user****************************
+19:34:36.747 [main] INFO  api.test.UserTests2 - *********************created user****************************
+19:34:36.768 [main] INFO  api.test.UserTests2 - *********************getting user by name****************************
+19:34:39.075 [main] INFO  api.test.UserTests2 - *********************updating user****************************
+19:34:40.186 [main] INFO  api.test.UserTests2 - *********************deleting user****************************
